@@ -11,10 +11,10 @@ Este repositorio contiene el diseño y la estructura de la base de datos relacio
 
 | Archivo | Descripción |
 |---|---|
-| `diagrama-relacional.svg` | Diagrama del modelo relacional con las tablas, sus atributos, llaves primarias y foráneas, y las relaciones entre ellas. |
-| `ddl.sql` | Script de creación de la base de datos y las tablas (Data Definition Language). |
-| `dml-data.sql` | Script con la inserción de datos de ejemplo en cada tabla (Data Manipulation Language). |
-| `dml-querys.sql` | Script con consultas SQL de prueba sobre la base de datos. |
+| `01-diagrama-relacional.svg` | Diagrama del modelo relacional con las tablas, sus atributos, llaves primarias y foráneas, y las relaciones entre ellas. |
+| `02-ddl.sql` | Script de creación de la base de datos y las tablas. |
+| `03-dml-data.sql` | Script con la inserción de datos de ejemplo en cada tabla. |
+| `04-dml-querys.sql` | Script con consultas SQL de prueba sobre la base de datos. |
 | `README.md` | Este archivo. |
 
 ## Descripción del modelo
